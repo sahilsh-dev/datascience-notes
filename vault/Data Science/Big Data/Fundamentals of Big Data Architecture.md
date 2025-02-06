@@ -50,3 +50,20 @@ This layer includes both **batch processing and stream processing**, which are n
 **Apache Spark:** An in-memory processing engine that supports both batch and stream processing. It is known for its speed and ease of use compared to MapReduce.
 **Apache Flink:** A framework designed for real-time stream processing with low latency and high throughput.
 **Google Dataflow:** A fully managed service for stream and batch data processing.
+
+---
+
+# Data Visualization Layer
+
+The Data Visualization Layer is responsible for presenting processed data in a way that is accessible and actionable. The goal is to turn complex datasets into understandable visuals, such as graphs, charts, and dashboards, which facilitate decision-making.
+
+This layer often involves the creation of real-time dashboards, reports, and interactive visualizations.
+
+## Visualization Tools
+
+Popular tools for visualizing Big Data include:
+
+**Tableau:** A powerful visualization tool known for its interactive dashboards and ease of use.
+**Power BI:** A Microsoft tool for creating visual reports and dashboards with integration into Excel and other Microsoft products.
+**Apache Superset:** An open-source tool for building interactive dashboards and exploring data.
+**Grafana:** Primarily used for monitoring metrics and visualizing time-series data.
